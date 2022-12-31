@@ -6,7 +6,7 @@
 
 # API
 
-- this project uses the following API [jsonplaceholder](jsonplaceholder.typicode.com) to get the users list
+- this project uses the following API htt://jsonplaceholder.typicode.com to get the users list
 
 ## Available Scripts
 
