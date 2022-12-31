@@ -2,6 +2,7 @@
 
 - this project is a simple login page and users listing page
 - the project is built using ReactJS, React Hooks, create react app, react bootstrap
+- react router is used to navigate between the pages
 
 # API
 
