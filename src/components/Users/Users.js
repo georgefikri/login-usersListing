@@ -20,7 +20,6 @@ function Users(props) {
   return (
     <div className="users">
       <h1>Users</h1>
-      {/* add go back button */}
       <button onClick={handleGoBack}>Go Back</button>
       <table>
         <thead>
